@@ -17,6 +17,7 @@ class _MyAppState extends State<MyApp> {
   // This widget is the root of your application.
 
   final List<String> greetings = [
+    'Hello Könyvek',
     'Hello Books',
     'Hola Libros',
     'Ciao Libri',
