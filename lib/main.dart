@@ -18,6 +18,8 @@ class _MyAppState extends State<MyApp> {
 
   final List<String> greetings = [
     'Hello Könyvek',
+    'Hello everybody',
+    'Hello teszt',
     'Hello Books',
     'Hola Libros',
     'Ciao Libri',
